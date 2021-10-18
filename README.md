@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working as an Android Developer intern at **Flow Mobility**
 
-- 🌱 I’m currently learning **Kotlin,Python**
+- 🌱 I’m currently learning **Kotlin, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utsav-Mehta](https://github.com/Utsav-Mehta)
 
-- 💬 Ask me about **Java,Android Studio**
+- 💬 Ask me about **Java, Android Studio**
 
 - 📫 How to reach me **utsavmmehta17@gmail.com**
 
