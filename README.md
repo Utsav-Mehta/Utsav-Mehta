@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utsav-Mehta](https://github.com/Utsav-Mehta)
 
-- 💬 Ask me about **Java, Android Studio**
+- 💬 Ask me about **Java, Android Development**
 
 - 📫 How to reach me **utsavmmehta17@gmail.com**
 
