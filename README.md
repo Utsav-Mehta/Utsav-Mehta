@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **working as an Android Developer intern at Flow Mobility**
 
-- 🌱 I’m currently learning **Kotlin, Python**
+- 🌱 I’m currently learning **Kotlin, Web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Utsav-Mehta](https://github.com/Utsav-Mehta)
 
