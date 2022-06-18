@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="utsav-mehta" /> </p>
 
-- 🔭 I’m currently **working as an Android Developer intern at Flow Mobility**
+- 🔭 I’m currently **working as a Research intern at ISRO**
 
 - 🌱 I’m currently learning **Deep-learning, Artificial Intelligence, Computer Vision**
 
