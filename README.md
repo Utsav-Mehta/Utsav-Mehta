@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Utsav</h1>
-<h3 align="center">ML Engineering and Data Analyst from India</h3>
+<h3 align="center">ML Engineer and Data Analyst from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working as a Research intern at IIT'Gn<br><br>🌱 I’m currently learning Deep-learning, Artificial Intelligence, Computer Vision<br><br>👨‍💻 All of my projects are available at https://github.com/Utsav-Mehta<br><br>💬 Ask me about Android Development, Machine Learning<br><br>📫 How to reach me utsavmmehta17@gmail.com
