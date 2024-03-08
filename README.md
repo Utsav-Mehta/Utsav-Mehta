@@ -2,7 +2,7 @@
 <h3 align="center">ML Engineer and Data Analyst from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working as a Research intern at IIT'Gn<br><br>🌱 I’m currently learning Deep-learning, Artificial Intelligence, Computer Vision<br><br>👨‍💻 All of my projects are available at https://github.com/Utsav-Mehta<br><br>💬 Ask me about Android Development, Machine Learning<br><br>📫 How to reach me utsavmmehta17@gmail.com
+🔭 I’m currently working as an Analyst Intern at KPMG India. <br><br>🌱 My forte is Computer Vision, Applied Machine Learning and Data Analysis. <br><br>👨‍💻 All of my projects are available at https://github.com/Utsav-Mehta<br><br>💬 Ask me about Android Development, Machine Learning<br><br>📫 How to reach me utsavmmehta17@gmail.com
 
 
 ## 🌐 Socials:
