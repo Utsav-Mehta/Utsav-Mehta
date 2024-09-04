@@ -2,7 +2,7 @@
 <h3 align="center">ML Engineer and Data Analyst from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working as an Analyst Intern at KPMG India. <br><br>🌱 My forte is Computer Vision, Applied Machine Learning and Data Analysis. <br><br>👨‍💻 All of my projects are available at https://github.com/Utsav-Mehta<br><br>💬 Ask me about CV, Android, Machine Learning and GenAI <br><br>📫 How to reach me utsavmmehta17@gmail.com
+🔭 I worked on making scalable & intelligent systems using Data at places like KPMG, ISRO, IIT'Gn. <br><br>🌱 My forte is Computer Vision, Applied Machine Learning and Data Analysis. <br><br>👨‍💻 All of my projects are available at https://github.com/Utsav-Mehta<br><br>💬 Ask me about CV, Android, Machine Learning and GenAI <br><br>📫 How to reach me utmehta01@gmail.com
 
 
 ## 🌐 Socials:
